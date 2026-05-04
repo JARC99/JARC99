@@ -1,5 +1,8 @@
-## Hi there 👋
+## ¡Buenas! / Greetings! / Moin! ヾ(＾ ∇ ＾).
 
+As I'm currently going through my first year of graduate school I wanted to do some clean up to keep this site a little more presentable for future use.
+
+Most of my repositories emanate from needs I've found while working on university or personal projects. Feel free to branch them if you think they can be of use. If you want a more detailed description of each of the repositories and feel free to check the corresponding project page in my website.
 <!--
 **JARC99/JARC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
