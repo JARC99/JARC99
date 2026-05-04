@@ -1,4 +1,4 @@
-## ¡Buenas! / Greetings! / Moin! ヾ(＾ ∇ ＾).
+## ¡Buenas! / Greetings! / Moin! ヾ(ᵔᵕᵔ)
 
 As I'm currently going through my first year of graduate school I wanted to do some clean up to keep this site a little more presentable for future use.
 
